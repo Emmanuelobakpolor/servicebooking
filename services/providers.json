@@ -1,0 +1,300 @@
+[
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 1,
+      "provider_name": "CleanPro Solutions",
+      "email": "contact@cleanpro.com",
+      "phone": "08012345601",
+      "location": "FCT Abuja",
+      "availability": "Mon-Fri 9am-5pm"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 1,
+      "provider_name": "Sparkle Team",
+      "email": "info@sparkleteam.com",
+      "phone": "08012345602",
+      "location": "FCT Abuja",
+      "availability": "Everyday 8am-6pm"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 1,
+      "provider_name": "Hygiene Masters",
+      "email": "hygiene@masters.com",
+      "phone": "08012345603",
+      "location": "FCT Abuja",
+      "availability": "Weekends Only"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 2,
+      "provider_name": "PipeFixers",
+      "email": "hello@pipefixers.com",
+      "phone": "08012345604",
+      "location": "FCT Abuja",
+      "availability": "Mon-Sat 7am-6pm"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 2,
+      "provider_name": "AquaPro Plumbing",
+      "email": "support@aquapro.com",
+      "phone": "08012345605",
+      "location": "FCT Abuja",
+      "availability": "24/7"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 2,
+      "provider_name": "DripStop Experts",
+      "email": "drip@stop.com",
+      "phone": "08012345606",
+      "location": "FCT Abuja",
+      "availability": "Mon-Fri 8am-4pm"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 3,
+      "provider_name": "Spark Electric",
+      "email": "admin@sparkelectric.com",
+      "phone": "08012345607",
+      "location": "FCT Abuja",
+      "availability": "Mon-Sun 6am-6pm"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 3,
+      "provider_name": "WattWorks",
+      "email": "watt@works.com",
+      "phone": "08012345608",
+      "location": "FCT Abuja",
+      "availability": "Weekdays Only"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 3,
+      "provider_name": "Electricians NG",
+      "email": "info@electriciansng.com",
+      "phone": "08012345609",
+      "location": "FCT Abuja",
+      "availability": "On call"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 4,
+      "provider_name": "BugAway",
+      "email": "hello@bugaway.com",
+      "phone": "08012345610",
+      "location": "FCT Abuja",
+      "availability": "Anytime"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 4,
+      "provider_name": "NoPests Pro",
+      "email": "info@nopests.com",
+      "phone": "08012345611",
+      "location": "FCT Abuja",
+      "availability": "Flexible"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 4,
+      "provider_name": "RodentFree",
+      "email": "rodent@free.com",
+      "phone": "08012345612",
+      "location": "FCT Abuja",
+      "availability": "Mon-Fri 10am-4pm"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 5,
+      "provider_name": "FixIt Appliance",
+      "email": "fixit@appliance.com",
+      "phone": "08012345613",
+      "location": "FCT Abuja",
+      "availability": "Mon-Fri 9am-5pm"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 5,
+      "provider_name": "HomeTech Repairs",
+      "email": "support@hometech.com",
+      "phone": "08012345614",
+      "location": "FCT Abuja",
+      "availability": "Weekends Only"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 5,
+      "provider_name": "DeviceDoctor",
+      "email": "hello@devicedoc.com",
+      "phone": "08012345615",
+      "location": "FCT Abuja",
+      "availability": "Daily 8am-4pm"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 6,
+      "provider_name": "GreenScape",
+      "email": "info@greenscape.com",
+      "phone": "08012345616",
+      "location": "FCT Abuja",
+      "availability": "Mon-Sat 7am-6pm"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 6,
+      "provider_name": "Lawn & Leaf",
+      "email": "contact@lawnleaf.com",
+      "phone": "08012345617",
+      "location": "FCT Abuja",
+      "availability": "Flexible hours"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 6,
+      "provider_name": "GardenPros",
+      "email": "garden@pros.com",
+      "phone": "08012345618",
+      "location": "FCT Abuja",
+      "availability": "Weekdays 9am-3pm"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 7,
+      "provider_name": "SecureLine",
+      "email": "secure@line.com",
+      "phone": "08012345619",
+      "location": "FCT Abuja",
+      "availability": "24/7"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 7,
+      "provider_name": "EagleWatch",
+      "email": "eagle@watch.com",
+      "phone": "08012345620",
+      "location": "FCT Abuja",
+      "availability": "Rotational"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 7,
+      "provider_name": "GuardMax",
+      "email": "contact@guardmax.com",
+      "phone": "08012345621",
+      "location": "FCT Abuja",
+      "availability": "Shifts"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 8,
+      "provider_name": "FixAll Solutions",
+      "email": "info@fixall.com",
+      "phone": "08012345622",
+      "location": "FCT Abuja",
+      "availability": "Mon-Fri"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 8,
+      "provider_name": "MaintainIt Ltd",
+      "email": "hello@maintainit.com",
+      "phone": "08012345623",
+      "location": "FCT Abuja",
+      "availability": "Daily"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 8,
+      "provider_name": "HomeCare Services",
+      "email": "home@care.com",
+      "phone": "FCT Abuja",
+      "location": "FCT Abuja",
+      "availability": "Custom on-call"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 9,
+      "provider_name": "Rapid Fire Rescue",
+      "email": "rapid@firerescue.com",
+      "phone": "08012345625",
+      "location": "FCT Abuja",
+      "availability": "Emergency Only"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 9,
+      "provider_name": "BlazeGuard",
+      "email": "info@blazeguard.com",
+      "phone": "08012345626",
+      "location": "FCT Abuja",
+      "availability": "24/7"
+    }
+  },
+  {
+    "model": "services.serviceprovider",
+    "fields": {
+      "service": 9,
+      "provider_name": "FireShield",
+      "email": "shield@fire.com",
+      "phone": "08012345627",
+      "location": "FCT Abuja",
+      "availability": "Daily, emergency response"
+    }
+  }
+]
+

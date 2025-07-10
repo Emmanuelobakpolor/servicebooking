@@ -1,0 +1,74 @@
+[
+  {
+    "model": "services.service",
+    "pk": 1,
+    "fields": {
+      "name": "Cleaning Services",
+      "description": "Residential and commercial cleaning services."
+    }
+  },
+  {
+    "model": "services.service",
+    "pk": 2,
+    "fields": {
+      "name": "Plumbing Services",
+      "description": "Fixing and maintaining water systems."
+    }
+  },
+  {
+    "model": "services.service",
+    "pk": 3,
+    "fields": {
+      "name": "Electrical Services",
+      "description": "Electrical installations and repairs."
+    }
+  },
+  {
+    "model": "services.service",
+    "pk": 4,
+    "fields": {
+      "name": "Pest Control",
+      "description": "Eradicating pests and rodents safely."
+    }
+  },
+  {
+    "model": "services.service",
+    "pk": 5,
+    "fields": {
+      "name": "Appliance Repair",
+      "description": "Repair of household and industrial appliances."
+    }
+  },
+  {
+    "model": "services.service",
+    "pk": 6,
+    "fields": {
+      "name": "Landscaping/Gardening",
+      "description": "Yard care, lawn maintenance, and landscaping."
+    }
+  },
+  {
+    "model": "services.service",
+    "pk": 7,
+    "fields": {
+      "name": "Security Services",
+      "description": "Professional security personnel and surveillance."
+    }
+  },
+  {
+    "model": "services.service",
+    "pk": 8,
+    "fields": {
+      "name": "General Maintenance",
+      "description": "Routine upkeep of homes and buildings."
+    }
+  },
+  {
+    "model": "services.service",
+    "pk": 9,
+    "fields": {
+      "name": "Firefighters",
+      "description": "Emergency fire response and safety services."
+    }
+  }
+]
